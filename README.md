@@ -1,2 +1,2 @@
 # TestGit
-Thins is testing for git
+This is testing for git
